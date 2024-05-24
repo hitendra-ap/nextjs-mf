@@ -1,0 +1,22 @@
+# Logs
+logs
+*.log
+
+# Productive files
+*dist
+mocha.json
+
+*.next
+
+# Dependency directory
+*node_modules
+
+# OSX files
+*.DS_Store
+
+# Editors
+*.idea/
+
+# yarn
+*yarn.lock
+*yarn-error.log

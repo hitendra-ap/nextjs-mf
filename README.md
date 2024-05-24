@@ -6,3 +6,11 @@ This repository contains two applications, `app1` and `app2`, configured to use 
 
 - Node.js (>=18.x.x)
 - npm (>=10.x.x) or yarn (>=1.x.x)
+
+## Running
+
+To run both the application, cd to the folder and perform:
+```sh
+# port 5005
+$ npm install
+$ npm run dev
